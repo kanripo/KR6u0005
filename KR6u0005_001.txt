@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:27.134780
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:00
 #+TITLE: 妙好寶車經
 #+PROPERTY: CBETA_ID T85n2869
 #+PROPERTY: ID KR6u0005
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2869
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6u0005_T_000-1333c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6u0005_T_001-1333c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.2869¶
-
- 佛說妙好寶車經¶
+No. 2869¶
+佛說妙好寶車經¶
 ¶
 
 世時有一□□□□□□□□□□□□□¶
@@ -156,7 +155,7 @@ No.2869¶
 　世間愚癡人¶
 　不信寶車經
 　死墮地獄中
-　餓鬼竟來前¶
+　我鬼竟來前¶
 　牽頭向刀山
 　面白如脣青
 　不見日月光¶
@@ -174,9 +173,9 @@ No.2869¶
 　不肯受師教¶
 　佛前作懺悔
 　今日受斯罪
-　知復何造逮
+　知復何造逮」
 #+END_VERSE
-」¶
+¶
 
 佛言。若有善男子善女人。能於齋日在三尊¶
 前。發露懺悔自悅過咎者罪滅福生。不經刀¶
@@ -285,9 +284,9 @@ No.2869¶
 　人急依於佛¶
 　無戒求佛難
 　放身自縱恣
-　眾魔競來前
+　眾魔競來前」
 #+END_VERSE
-」¶
+¶
 
 比丘語寶車。何以不問佛四諦　二因緣本¶
 從何處出。佛即語寶車。我出於波羅奈國。或¶
